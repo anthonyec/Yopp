@@ -1,7 +1,7 @@
 Yopp (forked)
 ====
 
-I've use Yopp regularly and think it's great. However, most of the time I want to share text to my phone. And universal clipboard on macOS isn't reliable. So I made this fork.
+I use Yopp regularly and think it's great. However, most of the time I want to share text to my phone. And universal clipboard on macOS isn't reliable. So I made this fork.
 
 What does this fork add?
 -------------------
