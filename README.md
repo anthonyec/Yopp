@@ -1,5 +1,20 @@
-Yopp
+Yopp (forked)
 ====
+
+I've use Yopp regularly and think it's great. However, most of the time I want to share text to my phone. And universal clipboard on macOS isn't reliable. So I made this fork.
+
+What does this fork add?
+-------------------
+
+- Share text between computers. The UI fits the minimilist style of Yopp and is implemented in the same ethos.
+
+<img src="https://i.imgur.com/Ngj9XmP.png" />
+<cite>Just paste text in the big box! It is saved automatically.</cite>
+
+---
+
+Original README
+---
 
 Have you ever spent more than 1 second wondering:
 
@@ -40,13 +55,13 @@ This tool requires a **total number of 7 actions** to get the work done:
 
     Open browser on phone [1 tap], Open page [1 tap if in bookmarks], UPLOAD [1 tap], Choose the file [1 action]
     Open browser on computer [1 double click], Open page [1 click if in bookmarks], DOWNLOAD [1 click]
-    
+
 I'll be happy to switch to another tool if one requiring less actions exists.
 
 I noticed that my likelihood/probability to use any tool (all other things being equal) is more or less proportional to:
 
     P = 1 / a^2
-    
+
 where `a` is the number of required actions/user inputs. If the number of required actions is doubled, the likelihood to use the tool is divided by 4!
 
 
